@@ -1,4 +1,3 @@
-<!HTML DOCTYPE!>
 <header>
   <title> Hannah Grace </title>
 </header>
